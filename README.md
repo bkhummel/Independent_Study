@@ -1,7 +1,7 @@
 # Independent_Study
-Work With Professor Adeel Bhutta on Selective Subtraction
+Work With Professor Adeel Bhutta on a novel approach to Selective Foreground Subtraction
 
-Adeel Bhutta's original ICIP paper is included as a pdf file https://github.com/bkhummel/Independent_Study/blob/master/Test_Files/Left/0240.jpeg
+Adeel Bhutta's original ICIP paper is included as a pdf file "ICIP_SELECTIVE_SUBTRACTION"
 
 We used 6 algorithms and 2 outdoor hand-held videos to measure the performance of Professor Bhutta's algorithm.
 Below are sample results from the left camera.
