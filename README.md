@@ -9,3 +9,7 @@ Work With Professor Adeel Bhutta on Selective Subtraction
   <img src="https://github.com/bkhummel/Independent_Study/blob/master/Test_Files/YOLO_Wall/0300.jpg" width="200" />
  
 </p>
+<p float="left">
+ 
+ 
+</p>
