@@ -3,7 +3,7 @@ Work With Professor Adeel Bhutta on Selective Subtraction
 
 
 <p float="left">
-  <img src="Test_Files/YOLO_Wall/230.jpg" width="100" />
-  <img src="Test_Files/YOLO_Wall/260.jpg" width="100" /> 
-  <img src="Test_Files/YOLO_Wall/300.jpg" width="100" />
+  <img src="https://github.com/bkhummel/Independent_Study/blob/master/Test_Files/YOLO_Wall/0230.jpg" width="100" />
+  <img src="https://github.com/bkhummel/Independent_Study/blob/master/Test_Files/YOLO_Wall/0260.jpg" width="100" /> 
+  <img src="https://github.com/bkhummel/Independent_Study/blob/master/Test_Files/YOLO_Wall/0300.jpg" width="100" />
 </p>
