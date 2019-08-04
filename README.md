@@ -10,7 +10,7 @@ Below are some sample results from the left camera.
   <img src = "https://github.com/bkhummel/Independent_Study/blob/master/Test_Files/Sensitivity.jpg" height = "300" width = "400" />
   <img src = "https://github.com/bkhummel/Independent_Study/blob/master/Test_Files/Specificity.jpg" width = "400" />
   <img src = "https://github.com/bkhummel/Independent_Study/blob/master/Test_Files/Sensitivity_Table.jpg" height = "300" width = "400" />
-  <img src = "https://github.com/bkhummel/Independent_Study/blob/master/Test_Files/Specificity_Table.jpg" height = "300" width = "400" />
+  <img src = "https://github.com/bkhummel/Independent_Study/blob/master/Test_Files/Specificity_Table.jpg" width = "400" />
 </p>
 
 Original Frames
