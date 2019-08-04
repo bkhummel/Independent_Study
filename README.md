@@ -1,5 +1,4 @@
-# Independent_Study
-Work With Professor Adeel Bhutta on a novel approach to Selective Foreground Subtraction
+#Work With Professor Adeel Bhutta on a novel approach to Selective Foreground Subtraction
 
 Adeel Bhutta's original ICIP paper is included as a pdf file "ICIP_SELECTIVE_SUBTRACTION"
 
