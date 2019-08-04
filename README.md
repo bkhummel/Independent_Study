@@ -71,6 +71,7 @@ K-means
 </p>
 
 
+Sensitivity and Specificity
 <p float="left">
   <img src = "https://github.com/bkhummel/Independent_Study/blob/master/Test_Files/Sensitivity.jpg" height = "300" width = "400" />
   <img src = "https://github.com/bkhummel/Independent_Study/blob/master/Test_Files/Specificity.jpg" width = "400" />
