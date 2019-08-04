@@ -1,4 +1,4 @@
-#Work With Professor Adeel Bhutta on a novel approach to Selective Foreground Subtraction
+Work With Professor Adeel Bhutta on a novel approach to Selective Foreground Subtraction
 
 Adeel Bhutta's original ICIP paper is included as a pdf file "ICIP_SELECTIVE_SUBTRACTION"
 
@@ -66,4 +66,11 @@ K-means
   <img src = "https://github.com/bkhummel/Independent_Study/blob/master/Test_Files/Kmeans_Test/0280.jpg" width = "200" />
   <img src = "https://github.com/bkhummel/Independent_Study/blob/master/Test_Files/Kmeans_Test/0300.jpg" width = "200" />
  
+</p>
+
+<p float="left">
+  <img src = "https://github.com/bkhummel/Independent_Study/blob/master/Test_Files/Sensitivity.jpg" width = "400" />
+</p>
+<p float="Right">
+  <img src = "https://github.com/bkhummel/Independent_Study/blob/master/Test_Files/Specificity.jpg" width = "400" />
 </p>
