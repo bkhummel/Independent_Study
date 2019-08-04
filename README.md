@@ -6,10 +6,6 @@ We used 6 algorithms and 2 outdoor hand-held videos to measure the performance o
 Below are some sample results from the left camera.
 
 
-<p float="left">
-  <img src = "https://github.com/bkhummel/Independent_Study/blob/master/Test_Files/Sensitivity.jpg" height = "300" width = "400" />
-  <img src = "https://github.com/bkhummel/Independent_Study/blob/master/Test_Files/Specificity.jpg" width = "400" />
-</p>
 
 Original Frames
 <p float="left">
@@ -74,4 +70,9 @@ K-means
  
 </p>
 
+
+<p float="left">
+  <img src = "https://github.com/bkhummel/Independent_Study/blob/master/Test_Files/Sensitivity.jpg" height = "300" width = "400" />
+  <img src = "https://github.com/bkhummel/Independent_Study/blob/master/Test_Files/Specificity.jpg" width = "400" />
+</p>
 
