@@ -3,7 +3,15 @@ Work With Professor Adeel Bhutta on a novel approach to Selective Foreground Sub
 Adeel Bhutta's original ICIP paper is included as a pdf file "ICIP_SELECTIVE_SUBTRACTION"
 
 We used 6 algorithms and 2 outdoor hand-held videos to measure the performance of Professor Bhutta's algorithm.
-Below are sample results from the left camera.
+Below are some sample results from the left camera.
+
+
+<p float="left">
+  <img src = "https://github.com/bkhummel/Independent_Study/blob/master/Test_Files/Sensitivity.jpg" width = "400" />
+  <img src = "https://github.com/bkhummel/Independent_Study/blob/master/Test_Files/Specificity.jpg" width = "400" />
+  <img src = "https://github.com/bkhummel/Independent_Study/blob/master/Test_Files/Sensitivity_table.jpg" width = "400" />
+  <img src = "https://github.com/bkhummel/Independent_Study/blob/master/Test_Files/Specificity_table.jpg" width = "400" />
+</p>
 
 Original Frames
 <p float="left">
@@ -68,9 +76,4 @@ K-means
  
 </p>
 
-<p float="left">
-  <img src = "https://github.com/bkhummel/Independent_Study/blob/master/Test_Files/Sensitivity.jpg" width = "400" />
-  <img src = "https://github.com/bkhummel/Independent_Study/blob/master/Test_Files/Specificity.jpg" width = "400" />
-  <img src = "https://github.com/bkhummel/Independent_Study/blob/master/Test_Files/Sensitivity_table.jpg" width = "400" />
-  <img src = "https://github.com/bkhummel/Independent_Study/blob/master/Test_Files/Specificity_table.jpg" width = "400" />
-</p>
+
