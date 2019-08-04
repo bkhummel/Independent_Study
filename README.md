@@ -37,6 +37,6 @@ Work With Professor Adeel Bhutta on Selective Subtraction
   <img src = "https://github.com/bkhummel/Independent_Study/tree/master/Test_Files/KNN_test/0240.jpg" width = "200"/>
   <img src = "https://github.com/bkhummel/Independent_Study/tree/master/Test_Files/KNN_test/0260.jpg" width = "200" />
   <img src = "https://github.com/bkhummel/Independent_Study/tree/master/Test_Files/KNN_test/0280.jpg" width = "200" />
-  <img src = "https://github.com/bkhummel/Independent_Study/tree/master/Test_Files/KNN_test/300.jpg" width = "200" />
+  <img src = "https://github.com/bkhummel/Independent_Study/tree/master/Test_Files/KNN_test/0300.jpg" width = "200" />
  
 </p>
