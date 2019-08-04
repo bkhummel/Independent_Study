@@ -69,6 +69,6 @@ K-means
 </p>
 
 <p float="left">
-  <img src = "https://github.com/bkhummel/Independent_Study/blob/master/Test_Files/Sensitivity.jpg" width = "300" />
-  <img src = "https://github.com/bkhummel/Independent_Study/blob/master/Test_Files/Specificity.jpg" width = "300" />
+  <img src = "https://github.com/bkhummel/Independent_Study/blob/master/Test_Files/Sensitivity.jpg" width = "400" />
+  <img src = "https://github.com/bkhummel/Independent_Study/blob/master/Test_Files/Specificity.jpg" width = "400" />
 </p>
